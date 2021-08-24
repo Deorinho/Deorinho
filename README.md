@@ -20,6 +20,6 @@ Currently I would like to collaborate in 3 streams; Automotive engineering, Big 
 I am most active on my linkedin page as well as my personal twitter. I prefer you conduct business on my linkedin and personal inquiries on my twitter.
 I am in the process of publishing my own portfolio website soon, This is something I am quite proud of and can not wait to share with you!
 
-Twitter: @deorinho
+Twitter: @deorinho7
 Linkedin: linkedin.com/in/deorukhkar
 Website: COMING SOON!
