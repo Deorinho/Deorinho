@@ -4,7 +4,7 @@ To whom it may concern,
 
 My name is Abhishek Deorukhkar, I am a front-end/fullstack software engineer and Aspiring professional football (soccer) player.
 I am currently pursuing a Computer Science Degree at The Lassonde School of Engineering @ York University.
-I am ver passionate about Soccer, Space, and I am a life long Arsenal fan!
+I am very passionate about Soccer, Space, and I am a life long Arsenal fan!
 Recently, I have been getting into various hobbies in my downtime such as Sim Racing, video games, learning about Quantum Mechanics and Linear Algebra, 
 as well as basic Machine learning.
 I find continuing to expand my knowledge in various topics regarding Math, Science and Automotive engineering essential to my growth as a software engineer.
